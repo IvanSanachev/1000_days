@@ -1,5 +1,5 @@
 import telebot
-bot = telebot.TeleBot('1792960126:AAFuIej5Mt5yEl9nfMwKfEythzqwUZaB9wE')
+bot = telebot.TeleBot('')
 from time import *
 def is_valid_data(data, nd, nm, ny):
     if len(data) == 3:
